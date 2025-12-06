@@ -1,0 +1,19 @@
+📌 Task 1:
+
+Import an Excel file that contains 2 tables (example: Sales & Customer).
+
+📌 Task 2:
+
+Go to Model View and check what relationships Power BI created automatically.
+
+📌 Task 3:
+
+Create one relationship manually between the two tables.
+
+📌 Task 4:
+
+Create a Slicer using the Region column.
+
+📌 Task 5:
+
+Add a Table Visual with Region, Product, and Sales.
